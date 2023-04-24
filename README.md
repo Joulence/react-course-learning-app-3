@@ -2,12 +2,11 @@ This project is the part of the course "React - The Complete Guide" by Maximilia
 
 # Simple User List React App
 
-This is a simple React application that allows users to add and remove users' username and age.
+This is a simple React application that allows users to add and users' username and age.
 
 ## Features
 
 - Add a new user with a username and age.
-- Remove a user from the list by clicking the delete button.
 - View the list of all added users.
 
 ## Installation
@@ -19,8 +18,7 @@ This is a simple React application that allows users to add and remove users' us
 ## Usage
 
 1. To add a new user, fill in the input fields for username and age, and click the 'Add User' button.
-2. To remove a user, click the 'Delete' button next to their username.
-3. To view the list of all users, simply look at the list displayed on the page.
+2. To view the list of all users, simply look at the list displayed on the page.
 
 ## Technologies Used
 
